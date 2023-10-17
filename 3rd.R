@@ -1,0 +1,6 @@
+seq_2050<-seq(20,50)
+mean_2060<- mean(20:60)
+sum_5191<- sum(51:91)
+cat("Sequence form 20 to 50: ",seq_2050,"\n" )
+cat("Mean from 20 to 60: ",mean_2060,"\n")
+cat("Sum from 51 to 91: ",sum_5191,"\n")
